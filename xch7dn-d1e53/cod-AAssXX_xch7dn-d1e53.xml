@@ -68,7 +68,7 @@
             <lb ed="#J" n="6"/>nunt ipsum ignem, &amp; quidam aerem 
             <lb ed="#J" n="7"/>&amp; quidam aquam, praeter terram ni 
             <lb ed="#J" n="8"/>si ponentes leges, d. de ipsis narrando 
-            <lb ed="#J" n="9"/>Posuerunt principium, &amp;c. i. Anti¬ 
+            <lb ed="#J" n="9"/><quote source="http://scta.info/resource/aristmet-l1-MMX9nn/cod-AAssXX" synch="65-66">Posuerunt principium</quote>, &amp;c. i. Anti¬ 
             <lb ed="#J" n="10"/>qui vero posuerunt principium vnum 
             <lb ed="#J" n="11"/>ex qualibet specierum corporum sim 
             <lb ed="#J" n="12"/>plicium. scilicet quia quidam posuerunt 
@@ -79,8 +79,10 @@
             <lb ed="#J" n="17"/>veritate non generatur neque corrum¬ 
             <lb ed="#J" n="18"/>pitur, ista autem sunt generabilia &amp; corru 
             <lb ed="#J" n="19"/>ptibilia, &amp; isti non perceperunt de cau 
-            <lb ed="#J" n="20"/>sis nisi materialem. D.d. Quidam 
-            <lb ed="#J" n="21"/>autem posuerunt, &amp;c. i. quidam au¬ 
+            <lb ed="#J" n="20"/>sis nisi materialem. 
+            
+            D.d. <quote source="http://scta.info/resource/aristmet-l1-MMX9nn/cod-AAssXX" synch="75-77">Quidam 
+            <lb ed="#J" n="21"/>autem posuerunt</quote>, &amp;c. i. quidam au¬ 
             <lb ed="#J" n="22"/>tem dixerunt causam materialem esse 
             <lb ed="#J" n="23"/>&amp; addiderunt causam mouentem &amp; 
             <lb ed="#J" n="24"/>agentem: &amp; istorum quidam ponunt 
@@ -92,22 +94,26 @@
           <p xml:id="xch7dn-d1e53-d1e184"> <!-- alias="av-l1-c2" --> 
             <!--preceded by aristmet-l1-agX93a -->
             <lb ed="#J" n="39"/><pc type="indent"/>Potest intelligi per hoc, quod d. 
-            <lb ed="#J" n="40"/>vsque ad tempus ltalorum, quod hi sci 
-            <lb ed="#J" n="41"/>uerunt has duas causas tantum. scilicet ma 
+            <lb ed="#J" n="40"/><quote source="http://scta.info/resource/aristmet-l1-agX93a" synch="1-3">vsque ad tempus Italorum</quote>, quod hi 
+            sci<lb ed="#J" n="41" break="no"/>uerunt has duas causas tantum. scilicet ma 
             <!--Averroes_Metaphysica_JuntSecunda_08-0015.xml-->
             <cb ed="#J" n="b"/>
-            <lb ed="#J" n="42"/>terialem, &amp; agentem. D.d. &amp; locuti fue¬ 
+            <lb ed="#J" n="42"/>terialem, &amp; agentem. 
+            
+            D.d. &amp; locuti fue¬ 
             <lb ed="#J" n="43"/>runt de ista alij modicum scilicet de causa for¬ 
             <lb ed="#J" n="44"/>mali. narrauit enim hoc in alio tracta¬ 
-            <lb ed="#J" n="45"/>tu de Empe scilicet quod volebat demonstra 
+            <lb ed="#J" n="45"/>tu de <name>Empe</name> scilicet quod volebat demonstra 
             <lb ed="#J" n="46"/>re quid est os, &amp; quid est caro: sed 
             <lb ed="#J" n="47"/>non propalauit quod forma rei debet 
             <lb ed="#J" n="48"/>esse principium aliud a sex principiis. 
             <lb ed="#J" n="49"/>scilicet quatuor elementis, &amp; lite, &amp; amici 
-            <lb ed="#J" n="50"/>tia, quae ipse ponebat. D.d. sed sicut 
-            <lb ed="#J" n="51"/>dixi, &amp;c. &amp; innuit Anax. qui pone¬ 
+            <lb ed="#J" n="50"/>tia, quae ipse ponebat. 
+            
+            D.d. <quote source="http://scta.info/resource/aristmet-l1-agX93a" synch="15-16" type="lemma">sed sicut 
+            <lb ed="#J" n="51"/>dixi</quote>, &amp;c. &amp; innuit <name>Anax</name>. qui pone¬ 
             <lb ed="#J" n="52"/>bat intellectum esse motorem tantum: &amp;  
-            <lb ed="#J" n="53"/>Empe. qui ponebat duos motores, 
+            <lb ed="#J" n="53"/><name>Empe</name>. qui ponebat duos motores, 
             <lb ed="#J" n="54"/>scilicet amicitiam, &amp; litem.
           </p>
         </div>
@@ -125,16 +131,18 @@
             <cb ed="#J" n="a"/>
             <lb ed="#J" n="1"/>&amp; Et, cum d. hoc, in quo conueniunt 
             <lb ed="#J" n="2"/>hae duae sectae, d. quod est proprium Py¬ 
-            <lb ed="#J" n="3"/>thagoricis, &amp; d. &amp; est, proprium eis dice 
-            <lb ed="#J" n="4"/>re, &amp;c. i. Pythagorici ponunt haec duo 
+            <lb ed="#J" n="3"/>thagoricis, &amp; d. &amp; est, <quote source="http://scta.info/resource/aristmet-l1-agX93p">proprium eis dice 
+            <lb ed="#J" n="4"/>re</quote>, &amp;c. i. Pythagorici ponunt haec duo 
             <lb ed="#J" n="5"/>principia. vnum autem eorum finem 
             <lb ed="#J" n="6"/>&amp; vnum, quae significant eandem inten¬ 
             <lb ed="#J" n="7"/>tionem apud eos: sedm autem princi¬ 
             <lb ed="#J" n="8"/>pium ponunt infinitum. Et haec duo 
             <lb ed="#J" n="9"/>secundum istos sunt secundum materiam &amp; formam, 
             <lb ed="#J" n="10"/>non secundum materiam &amp; agens, sicut erant 
-            <lb ed="#J" n="11"/>apud Antiquos naturales. D.d. &amp; non 
-            <lb ed="#J" n="12"/>sunt assueti appellare, &amp;c. i. &amp; isti ho 
+            <lb ed="#J" n="11"/>apud Antiquos naturales. 
+            
+            D.d. &amp; <quote source="http://scta.info/resource/aristmet-l1-agX93p">non 
+            <lb ed="#J" n="12"/>sunt assueti appellare<!-- matches italic version --></quote>, &amp;c. i. &amp; isti ho 
             <lb ed="#J" n="13"/>mines cum hoc, quod ponunt haec duo 
             <lb ed="#J" n="14"/>principia communia omnibus natura 
             <lb ed="#J" n="15"/>libus, non ponunt principium natu 
@@ -157,7 +165,9 @@
             <lb ed="#J" n="32"/>principia sunt etiam substantiae, quia sunt 
             <lb ed="#J" n="33"/>principium numeri, qui est substantia 
             <lb ed="#J" n="34"/>entium, principium enim substantiae de 
-            <lb ed="#J" n="35"/>bet esse substantia. D.d. sed ex istis 
+            <lb ed="#J" n="35"/>bet esse substantia. 
+            
+            D.d. <quote source="http://scta.info/resource/aristmet-l1-agX93p" synch="43-45"><!-- quotes are matching italic version -->sed ex istis</quote> 
             <lb ed="#J" n="36"/>etc. i. ex istis duobus principiis posue 
             <lb ed="#J" n="37"/>runtentia, quae dicunt esse numerum, 
             <lb ed="#J" n="38"/>i. cum existimauerunt entia esse nu¬ 
@@ -175,12 +185,14 @@
             <lb ed="#J" n="74"/>posuerunt suam consyderationem in eis 
             <lb ed="#J" n="75"/>in eo, quod est valde simplex, cum defi¬ 
             <lb ed="#J" n="76"/>nierunt primum ens illud, quod est ma¬ 
-            <lb ed="#J" n="77"/>gis manifestum * &amp; est magis dignum 
+            <lb ed="#J" n="77"/>gis manifestum &amp; est magis dignum 
             <lb ed="#J" n="78"/>in esse, &amp; cognitione, scilicet substantia 
             <lb ed="#J" n="79"/>definitionem, quam dixerunt scilicet quia di 
             <lb ed="#J" n="80"/>cunt ipsum esse infinitum, &amp; vnum 
-            <lb ed="#J" n="81"/>&amp; numerum. D.d. &amp; hoc est, quod ex¬ 
-            <lb ed="#J" n="82"/>istimabant, &amp;c. i. &amp; hoc, quod existima¬ 
+            <lb ed="#J" n="81"/>&amp; numerum. 
+            
+            D.d. &amp; <quote>hoc est, quod ex¬ 
+            <lb ed="#J" n="82"/>istimabant <!-- matches italic --></quote>, &amp;c. i. &amp; hoc, quod existima¬ 
             <!--Averroes_Metaphysica_JuntSecunda_08-0017.xml-->
             <pb ed="#J" n="7-r"/>
             <cb ed="#J" n="a"/>
@@ -193,13 +205,16 @@
             <lb ed="#J" n="7"/>natumraliter. quod desribitur sic, quid 
             <lb ed="#J" n="8"/>cum aufertur, aufertur aliud, &amp; non 
             <lb ed="#J" n="9"/>econuerso: &amp; cum aliud est, erit illud 
+            
             <lb ed="#J" n="10"/>D.d. sed non secundum modum, i, sed non se 
             <lb ed="#J" n="11"/>cundum modum, secundum quem aliquid est 
             <lb ed="#J" n="12"/>duplum, est duo, i. quod cum de aliquo ali¬ 
             <lb ed="#J" n="13"/>qua plura vno praedi antur, non est ne 
             <lb ed="#J" n="14"/>cesse vt eodem modo praedicentur de 
             <lb ed="#J" n="15"/>eo, neque vt praedicatum nemonstret sub 
-            <lb ed="#J" n="16"/>stantiam illius. D.d. si igitur non fue¬ 
+            <lb ed="#J" n="16"/>stantiam illius. 
+            
+            D.d. si igitur non fue¬ 
             <lb ed="#J" n="17"/>rit sic, erit vnum multum. id et si igitur 
             <lb ed="#J" n="18"/>natura posterioris non fuerit alia a 
             <lb ed="#J" n="19"/>natura prioris, tunc natura vnius &amp;  
@@ -207,6 +222,8 @@
             <lb ed="#J" n="21"/>bat per hoc quod, si entia essent nume 
             <lb ed="#J" n="22"/>ri, quia numerus est prior entibus, 
             <lb ed="#J" n="23"/>tunc plus esset vnum, &amp; vnum plus, 
+            
+            
             <lb ed="#J" n="24"/>D.d. &amp; hoc est: quod accidit illis. i. &amp;  
             <lb ed="#J" n="25"/>impossibile accidens dicentibus entia 
             <lb ed="#J" n="26"/>esse numerum est, sicut impossibi 
@@ -265,7 +282,9 @@
             <lb ed="#J" n="17"/>cta corpora in vltimo Fuclidis, &amp;  
             <lb ed="#J" n="18"/>consequebatur Naturales in dicen 
             <lb ed="#J" n="19"/>do materiam esse, &amp; quatuor elemen 
-            <lb ed="#J" n="20"/>ta esse. D.d. &amp; primum. quod con¬ 
+            <lb ed="#J" n="20"/>ta esse. 
+            
+            D.d. &amp; primum. quod con¬ 
             <lb ed="#J" n="21"/>tingit post Democritum, fuit opi¬ 
             <lb ed="#J" n="22"/>nio Herculeorum, qui faciebant du 
             <lb ed="#J" n="23"/>bitare omnes dantes se ad Philosopiam, 
@@ -278,7 +297,9 @@
             <lb ed="#J" n="30"/>tatione, igitur &amp; scientia semper est 
             <lb ed="#J" n="31"/>in transmutatione. &amp; scientia tran¬ 
             <lb ed="#J" n="32"/>smutata non est scientia: ergo nul 
-            <lb ed="#J" n="33"/>la est scientia. Deinde dicit: istas igi 
+            <lb ed="#J" n="33"/>la est scientia. 
+            
+            Deinde dicit: istas igi 
             <lb ed="#J" n="34"/>tur opiniones, &amp;c. i. istae igitur opi¬ 
             <lb ed="#J" n="35"/>niones praedictae peruenerunt ad nos 
             <lb ed="#J" n="36"/>de consyderantibus in Philosophia 
@@ -321,7 +342,9 @@
             <lb ed="#J" n="45"/>cit formas artificiati. &amp;, si non, tunc  
             <lb ed="#J" n="46"/>quodlibet esset a quolibet: &amp; non esset ex 
             <lb ed="#J" n="47"/>spermate hominis homo semper, neque a 
-            <lb ed="#J" n="48"/>spermate equi equus semper. D.d. 
+            <lb ed="#J" n="48"/>spermate equi equus semper. 
+            
+            D.d. 
             <lb ed="#J" n="49"/>omnia autem sensibilia, &amp;c. i. &amp; opinati 
             <lb ed="#J" n="50"/>sunt propter hoc, quod omnia sensibilia defi 
             <lb ed="#J" n="51"/>niuntur per istam naturam, &amp; inueni 
